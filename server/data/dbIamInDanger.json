@@ -1,0 +1,73 @@
+[
+    {
+        "animalInDanger": "Ballena (azul)",
+        "animalSciName": "Balaenoptera musculus",
+        "animalFamily": "Balaenopteridae",
+        "animalSize": "24m a 27m ",
+        "animalWeight": "100t - 120t",
+        "animalEcosystem": "Puede ser avistada desde el ecuador hasta el borde de los hielos en ambos hemisferios",
+        "animalFeed": "Pequeños crustáceos conocidos como kril",
+        "animalPopulation": "Entre 10000 y 25000 ejemplares",
+        "animalPredators": "Orcas y Tiburones.  Principalmente el hombre",
+        "animalDangers": "La caza, las redes de pesca y la industria (colisiones con buques, la contaminación y el desarrollo de petróleo y gas) y el cambio climático",
+        "animalCareMexico": "Instituto de Conservacion de las ballenas",
+        "animalCareGlobal": "Greenpeace",
+    },
+    {
+        "animalInDanger": "tortuga marina",
+        "animalSciName": "Chelonia mydas",
+        "animalFamily": "Cheloniidae",
+        "animalSize": "hasta 1.66 m",
+        "animalWeight": "hasta 200 kg",
+        "animalEcosystem": "Océanos tropicales y subtropicales de todo el mundo",
+        "animalFeed": "Varias especies de pasto marino y macroalga, medusas y larvas de crustáceos pequeños",
+        "animalPopulation": "Población estimada en 203000 ejemplares",
+        "animalPredators": "Tiburones. Principalmente el hombre",
+        "animalDangers": "Caza por su carne, adornos y productos cosméticos, el saqueo de sus nidos en busca de los huevos, la ingesta de residuos sólidos y las redes pesqueras",
+        "animalCareMexico": "Centro Mexicano de la Tortuga",
+        "animalCareGlobal": "WWF (Fondo Mundial para la Naturaleza)"
+    },
+    {
+        "animalInDanger": "tiburón blanco",
+        "animalSciName": "Carcharodon carcharias",
+        "animalFamily": "Lamnidae",
+        "animalSize": "5m a 6.4m",
+        "animalWeight": "hasta 1.9 t",
+        "animalEcosystem": "Aguas cálidas y templadas de casi todos los océanos",
+        "animalFeed": "Atún rojo, tortugas marinas, pingüinos, rayas, delfines, marsopas, zifios, cetáceos, focas, lobos y leones marinos.",
+        "animalPopulation":"Menos de 3500 ejemplares",
+        "animalPredators": "Hombre, Orcas, cocodrilos de agua salada, otras especies de tiburón como tiburón tigre y tiburón toro",
+        "animalDangers": "La pesca comercial y deportiva, la captura para su cría en pesquerías y para la exposición en acuarios, degradación de los ecosistemas costeros que utilizan como hábitat reproductivo",
+        "animalCareMexico": "SEMARNAT (Secretaria de Medio Ambiente y Recursos Naturales)",
+        "animalCareGlobal": "Fundacion CRAM"
+    },
+    {
+        "animalInDanger": "vaquita marina",
+        "animalSciName": "Phocoena sinus",
+        "animalFamily": "Phocoenidae",
+        "animalSize": "1.4m a 1.5m",
+        "animalWeight": "Hasta 55kg",
+        "animalEcosystem": "Norte del Golfo de California",
+        "animalFeed": "Calamares y pequeños peces como pez sapo, la anchoa, camarones, etc.",
+        "animalPopulation": "Menos de 22 ejemplares",
+        "animalPredators": "Orcas y tiburones. Principalmente el hombre",
+        "animalDangers": "Captura incidental, aumento de la actividad pesquera y limitada tasa de crecimiento poblacional",
+        "animalCareMexico": "INECOL (Instituto de Ecologia)",
+        "animalCareGlobal": "Sea Shepherd"
+    },
+    {
+        "animalInDanger": "delfín de Héctor",
+        "animalSciName": "Cephalorhynchus hectori",
+        "animalFamily": "Delphinidae",
+        "animalSize": "1.2m a 1.6m",
+        "animalWeight": "40kg - 60kg",
+        "animalEcosystem": "Regiones costeras de Nueva Zelanda",
+        "animalFeed": "Crustáceos y pequeños peces del fondo del mar",
+        "animalPopulation": "menos de 55 ejemplares",
+        "animalPredators": "Orcas y tiburones. Principalmente el hombre",
+        "animalDangers": "Captura accidental, heridas causadas por barcos, contaminación del medio, modificación del hábitat",
+        "animalCareMexico": "SEMARNAT (Secretaria de Medio Ambiente y Recursos Naturales)",
+        "animalCareGlobal": "Fundacion CRAM"
+    }
+      
+]
